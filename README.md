@@ -6,7 +6,7 @@ Project for data analyst/science
 
 **Datarockie**
 
->[Data Science Bootcamp #7 - Digital Badge](https://badgr.com/public/assertions/ApDhbv3ORHei-eHZTqBG8Q) | [Mini Data Science Bootcamp 2024](https://github.com/thatph/data_analyst_project/files/15346735/certificate-of-completion-for-mini-data-science-bootcamp-2024.1.pdf)
+>[Data Science Bootcamp #7 - Digital Badge](https://badgr.com/public/assertions/ApDhbv3ORHei-eHZTqBG8Q) | [Mini Data Science Bootcamp 2024](https://github.com/thatph/data_analyst_project/blob/ebcd1e608937f4fa3736b515798712c81e6ce127/PDF/Certification%20of%20Completion%20for%20Mini%20Data%20science%20bootcamp-2024.pdf)
 
 
 **Data Camp**
