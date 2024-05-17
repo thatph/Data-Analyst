@@ -4,6 +4,27 @@
 [<img src="https://github.com/thatph/Misc./blob/8ea876fb952c29200d7a0794a7cbcbecb9f12410/gmail_32px.png">](mailto:thatphong.ph@gmail.com)
 
 ***
+**<p align="center">Education</p>**
+\
+Bachelor of Business Administration, Finance and Banking, Chiang Mai University, 2017
+***
+**<p align="center">Activity</p>**
+\
+Click2win Competitive Chiang Mai University League 2016
+- 2nd Runner up in stock portfolio management competition
+  
+\
+Start Up League (Chiang Mai) 2017
+- be a part of "Fair Hand" team, provide business plan, financial strategy, presentation with CMU engineer students in team.
+
+***
+**<p align="center">Work experience</p>**
+\
+Internship, Financial Advisor, Asset Pro Management, 2017 (2 mos)
+\
+\
+Account Officer, Special asset management (NPL Prevention & Debt Restructuring), Bangkok Bank HQ, 2019-2022
+***
 
 
 **<p align="center">Certifications</p>**
