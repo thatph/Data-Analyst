@@ -18,9 +18,10 @@ Data Camp
 
 2.  Python
    
-   [Intermediate Python](https://github.com/thatph/data_analyst_project/files/15346714/Data.camp.Cert_.Intermediate.Python.pdf)
+      [Intermediate Python](https://github.com/thatph/data_analyst_project/files/15346714/Data.camp.Cert_.Intermediate.Python.pdf)
 
 3. Power Bi
+   
    [Introduction to Power BI.pdf](https://github.com/thatph/data_analyst_project/files/15346763/intro.powerbi.pdf)
 
 
