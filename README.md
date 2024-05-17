@@ -29,3 +29,8 @@
 >[Introduction to Power BI](https://github.com/thatph/data_analyst_project/blob/00f4de661f611b7d13cb9480b85a4c472eb6d20c/PDF/%5BDatacamp%5D%20Introduction%20to%20Power%20BI.pdf)
 
 
+***
+**Projects**
+
+>[Credit Risk Analyst](https://github.com/thatph/Data-Analyst/tree/bddda747dfdf13bd0b84e3d8e2506b15bc939403/Python/Project%20%3A%20Credit%20Risk%20analysis)
+>`Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression`
