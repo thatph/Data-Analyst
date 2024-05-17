@@ -6,7 +6,7 @@
 ***
 
 
-**Certifications**
+**<p align="center">Certifications</p>**
 
 **Datarockie**
 
