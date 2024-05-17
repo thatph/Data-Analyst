@@ -1,6 +1,11 @@
-# data_analyst_project
-Project for data analyst/science 
+# Data Analyst
 
+Thatphong Phatthanachaiwat
+
+
+
+
+![ocat smiling and raising a tentacle.](https://github.com/thatph/Misc./blob/6381b7eb5d3a8a739bf4b8b1e1621037efb28233/linkedin.png)
 
 **Certifications**
 
@@ -23,6 +28,5 @@ Project for data analyst/science
 
 **Power Bi**
 >[Introduction to Power BI](https://github.com/thatph/data_analyst_project/blob/00f4de661f611b7d13cb9480b85a4c472eb6d20c/PDF/%5BDatacamp%5D%20Introduction%20to%20Power%20BI.pdf)
-
 
 
