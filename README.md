@@ -1,13 +1,10 @@
-# Data Analyst
+**<p align="center">Thatphong Phatthanachaiwat</p>**
 
-Thatphong Phatthanachaiwat
+[<img src="https://github.com/thatph/Misc./blob/2f409ba586e705a07633099500c819322715489c/linkedin%2032px.png">](https://www.linkedin.com/in/thatphongph/) 
+[<img src="https://github.com/thatph/Misc./blob/8ea876fb952c29200d7a0794a7cbcbecb9f12410/gmail_32px.png">](mailto:thatphong.ph@gmail.com)
 
+***
 
-
-
-![ocat smiling and raising a tentacle.](https://github.com/thatph/Misc./blob/2f409ba586e705a07633099500c819322715489c/linkedin%2032px.png)
-
-[<img src="https://github.com/thatph/Misc./blob/2f409ba586e705a07633099500c819322715489c/linkedin%2032px.png">](https://www.google.com)
 
 **Certifications**
 
