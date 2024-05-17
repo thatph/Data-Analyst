@@ -5,7 +5,7 @@ Thatphong Phatthanachaiwat
 
 
 
-![ocat smiling and raising a tentacle.](https://github.com/thatph/Misc./blob/6381b7eb5d3a8a739bf4b8b1e1621037efb28233/linkedin.png)
+![ocat smiling and raising a tentacle.](https://github.com/thatph/Misc./blob/2f409ba586e705a07633099500c819322715489c/linkedin%2032px.png)
 
 **Certifications**
 
