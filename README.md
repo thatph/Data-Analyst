@@ -7,6 +7,8 @@ Thatphong Phatthanachaiwat
 
 ![ocat smiling and raising a tentacle.](https://github.com/thatph/Misc./blob/2f409ba586e705a07633099500c819322715489c/linkedin%2032px.png)
 
+[<img src="https://github.com/thatph/Misc./blob/2f409ba586e705a07633099500c819322715489c/linkedin%2032px.png">](https://www.google.com)
+
 **Certifications**
 
 **Datarockie**
