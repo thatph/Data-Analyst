@@ -14,7 +14,7 @@ Data Camp
 
 SQL
 
-[Intermediate SQL]([PDF/[Datacamp] Intermediate SQL.pdf]
+[Intermediate SQL](https://github.com/thatph/data_analyst_project/blob/e12c4ed2cdfdf057da974f24b0cf02cce30392dc/PDF/%5BDatacamp%5D%20Intermediate%20SQL.pdf)
 
 2.  Python
    
