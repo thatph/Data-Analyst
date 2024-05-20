@@ -1,7 +1,16 @@
 **<p align="center">Thatphong Phatthanachaiwat</p>**
 
-[<img src="https://github.com/thatph/Misc./blob/2f409ba586e705a07633099500c819322715489c/linkedin%2032px.png">](https://www.linkedin.com/in/thatphongph/) 
-[<img src="https://github.com/thatph/Misc./blob/8ea876fb952c29200d7a0794a7cbcbecb9f12410/gmail_32px.png">](mailto:thatphong.ph@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thatphong.ph" rel="nofollow noreferrer">
+    <img src="https://github.com/thatph/Misc./blob/86836b6e802ee62cbdd635b1bdecb7be76a8dc01/linkedin%2016px.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="mailto:thatphong.ph@gmail.com" rel="nofollow noreferrer">
+    <img src="https://github.com/thatph/Misc./blob/0689a58a994f9de32be558b55a89bf414f58ac5f/gmail%2016px.png" alt="gmail"> Gmail
+  </a> &nbsp;
+  <a href="https://github.com/thatph/Data-Analyst" rel="nofollow noreferrer">
+    <img src="https://github.com/thatph/Misc./blob/7b761d77dfd228f9a50ca1db4d604582b1ca4f4f/github%2016px.png" alt="github"> Github
+  </a>
+</p>
 
 ***
 **<p align="center">Education</p>**
