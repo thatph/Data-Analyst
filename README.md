@@ -71,3 +71,16 @@ Datacamp
 >`SQL`
 
 >[Analyze International Debt Statistics](https://github.com/thatph/Data-Analyst/tree/ee9560e71b770c182e5a2dcb4b5c0f5441c939d4/SQL/Datacamp/Analyze%20International%20Debt%20Statistics)
+>`SQL`
+
+>[Analyzing Industry Carbon Emissions](https://github.com/thatph/Data-Analyst/tree/a294c7c93650ec2017495a5751acf6fc908de887/SQL/Datacamp/Analyzing%20Industry%20Carbon%20Emissions)
+>`SQL`
+
+>[Analyzing American Baby Name Trends](https://github.com/thatph/Data-Analyst/tree/a294c7c93650ec2017495a5751acf6fc908de887/SQL/Datacamp/Analyzing%20American%20Baby%20Name%20Trends)
+>`SQL, Case When, Ranking, Filtering, Window function, Sub-query, Common Table, Expression`
+
+
+
+
+
+
