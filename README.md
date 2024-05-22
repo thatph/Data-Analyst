@@ -77,7 +77,7 @@ Datacamp
 >`SQL`
 
 >[Analyzing American Baby Name Trends](https://github.com/thatph/Data-Analyst/tree/a294c7c93650ec2017495a5751acf6fc908de887/SQL/Datacamp/Analyzing%20American%20Baby%20Name%20Trends)
->`SQL, Case When, Ranking, Filtering, Window function, Sub-query, Common Table, Expression`
+>`SQL, Case When, Ranking, Filtering, Window function, Sub-query, CTE`
 
 
 
