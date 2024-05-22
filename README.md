@@ -62,5 +62,12 @@ Account Officer, Special asset management (NPL Prevention & Debt Restructuring),
 ***
 **Projects**
 
+Personal 
 >[Credit Risk Analyst](https://github.com/thatph/Data-Analyst/tree/bddda747dfdf13bd0b84e3d8e2506b15bc939403/Python/Project%20%3A%20Credit%20Risk%20analysis)
 >`Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression`
+>
+Datacamp
+>[When was the golden era of video games?](https://github.com/thatph/Data-Analyst/tree/ee9560e71b770c182e5a2dcb4b5c0f5441c939d4/SQL/Datacamp/When%20was%20the%20golden%20era%20of%20video%20games%3F)
+>`SQL`
+
+>[Analyze International Debt Statistics](https://github.com/thatph/Data-Analyst/tree/ee9560e71b770c182e5a2dcb4b5c0f5441c939d4/SQL/Datacamp/Analyze%20International%20Debt%20Statistics)
