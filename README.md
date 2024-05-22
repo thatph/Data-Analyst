@@ -67,6 +67,9 @@ Personal
 >`Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression`
 >
 Datacamp
+>[What and Where are the World's Oldest Businesses](https://github.com/thatph/Data-Analyst/tree/dbcbfd6ae6a1a024af7ef8c1c19893581fbba28e/Python/Datacamp/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
+>`Python: Pandas, .merge(), .sorted_values(), .groupby(), .agg()`
+
 >[Analyze International Debt Statistics](https://github.com/thatph/Data-Analyst/tree/ee9560e71b770c182e5a2dcb4b5c0f5441c939d4/SQL/Datacamp/Analyze%20International%20Debt%20Statistics)
 >`SQL: Basic`
 
