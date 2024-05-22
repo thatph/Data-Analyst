@@ -64,23 +64,23 @@ Account Officer, Special asset management (NPL Prevention & Debt Restructuring),
 
 Personal 
 >[Credit Risk Analyst](https://github.com/thatph/Data-Analyst/tree/bddda747dfdf13bd0b84e3d8e2506b15bc939403/Python/Project%20%3A%20Credit%20Risk%20analysis)
->`Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression`
+>`Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression`
 >
 Datacamp
 >[Analyze International Debt Statistics](https://github.com/thatph/Data-Analyst/tree/ee9560e71b770c182e5a2dcb4b5c0f5441c939d4/SQL/Datacamp/Analyze%20International%20Debt%20Statistics)
->`SQL, Basic`
+>`SQL: Basic`
 
 >[Analyzing Industry Carbon Emissions](https://github.com/thatph/Data-Analyst/tree/a294c7c93650ec2017495a5751acf6fc908de887/SQL/Datacamp/Analyzing%20Industry%20Carbon%20Emissions)
->`SQL, Basic`
+>`SQL: Basic`
 
 >[When was the golden era of video games?](https://github.com/thatph/Data-Analyst/tree/ee9560e71b770c182e5a2dcb4b5c0f5441c939d4/SQL/Datacamp/When%20was%20the%20golden%20era%20of%20video%20games%3F)
->`SQL, Join`
+>`SQL: Join`
 
 >[What and Where are the World's Oldest Businesses (SQL)](https://github.com/thatph/Data-Analyst/tree/de4bc4c156941ee50a391d9250f354608d8bea63/SQL/Datacamp/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
->`SQL, Join`
+>`SQL: Join`
 
 >[Analyzing American Baby Name Trends](https://github.com/thatph/Data-Analyst/tree/a294c7c93650ec2017495a5751acf6fc908de887/SQL/Datacamp/Analyzing%20American%20Baby%20Name%20Trends)
->`SQL, Case When, Ranking, Join, Window function, Sub-query, CTE`
+>`SQL: Case When, Ranking, Join, Window function, Sub-query, CTE`
 
 
 
