@@ -85,7 +85,7 @@ Datacamp
 >[What and Where are the World's Oldest Businesses (SQL)](https://github.com/thatph/Data-Analyst/tree/de4bc4c156941ee50a391d9250f354608d8bea63/SQL/Datacamp/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
 >`SQL: Join`
 
->[Analyzing Motercycle Part Sales)](https://github.com/thatph/Data-Analyst/tree/4bc784bd4394b029d80bdd02c9571b7f31582949/SQL/Datacamp/Analyzing%20Motorcycle%20Part%20Sales)
+>[Analyzing Motercycle Part Sales](https://github.com/thatph/Data-Analyst/tree/4bc784bd4394b029d80bdd02c9571b7f31582949/SQL/Datacamp/Analyzing%20Motorcycle%20Part%20Sales)
 >`SQL: >Date:to_char`
 
 >[Analyzing American Baby Name Trends](https://github.com/thatph/Data-Analyst/tree/a294c7c93650ec2017495a5751acf6fc908de887/SQL/Datacamp/Analyzing%20American%20Baby%20Name%20Trends)
