@@ -76,6 +76,9 @@ Datacamp
 >[Analyzing Industry Carbon Emissions](https://github.com/thatph/Data-Analyst/tree/a294c7c93650ec2017495a5751acf6fc908de887/SQL/Datacamp/Analyzing%20Industry%20Carbon%20Emissions)
 >`SQL: Basic`
 
+>[Analyzing Student's Mental Health](https://github.com/thatph/Data-Analyst/tree/591297c7a50c5072cdc75670f8f4d5f44c47c6ad/SQL/Datacamp/Analyzing%20Student's%20Mental%20Health)
+>`SQL: Basic`
+
 >[When was the golden era of video games?](https://github.com/thatph/Data-Analyst/tree/ee9560e71b770c182e5a2dcb4b5c0f5441c939d4/SQL/Datacamp/When%20was%20the%20golden%20era%20of%20video%20games%3F)
 >`SQL: Join`
 
