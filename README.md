@@ -65,7 +65,10 @@ Account Officer, Special asset management (NPL Prevention & Debt Restructuring),
 Personal 
 >[Credit Risk Analyst](https://github.com/thatph/Data-Analyst/tree/bddda747dfdf13bd0b84e3d8e2506b15bc939403/Python/Project%20%3A%20Credit%20Risk%20analysis)
 >`Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression`
->
+
+>[MS Excel Projects](https://github.com/thatph/Data-Analyst/tree/11d446afc2ce6b28e5559076bdc144a4ee1c75f8/MS%20Excel)
+>`MS Excel: Pivot Table, Data Visualization`
+
 Datacamp
 >[What and Where are the World's Oldest Businesses](https://github.com/thatph/Data-Analyst/tree/dbcbfd6ae6a1a024af7ef8c1c19893581fbba28e/Python/Datacamp/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
 >`Python: Pandas, .merge(), .sorted_values(), .groupby(), .agg()`
