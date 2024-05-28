@@ -63,7 +63,7 @@ Account Officer, Special asset management (NPL Prevention & Debt Restructuring),
 **Projects**
 
 Personal 
->[Credit Risk Analyst](https://github.com/thatph/Data-Analyst/tree/bddda747dfdf13bd0b84e3d8e2506b15bc939403/Python/Project%20%3A%20Credit%20Risk%20analysis)
+>[Credit Risk Analysis](https://github.com/thatph/Data-Analyst/tree/bddda747dfdf13bd0b84e3d8e2506b15bc939403/Python/Project%20%3A%20Credit%20Risk%20analysis)
 >`Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Logistic Regression`
 
 >[MS Excel Projects](https://github.com/thatph/Data-Analyst/tree/11d446afc2ce6b28e5559076bdc144a4ee1c75f8/MS%20Excel)
