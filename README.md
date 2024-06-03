@@ -69,6 +69,9 @@ Personal
 >[MS Excel Projects](https://github.com/thatph/Data-Analyst/tree/11d446afc2ce6b28e5559076bdc144a4ee1c75f8/MS%20Excel)
 >`MS Excel: Pivot Table, Data Visualization`
 
+>[Power BI Projects](https://github.com/thatph/Data-Analyst/tree/00890b0061320bdc803389ff35d4045774200a27/PowerBI/currency%20exchange%20dashboard)
+>`Power BI: Data visualization`
+
 Datacamp
 >[What and Where are the World's Oldest Businesses](https://github.com/thatph/Data-Analyst/tree/dbcbfd6ae6a1a024af7ef8c1c19893581fbba28e/Python/Datacamp/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses)
 >`Python: Pandas, .merge(), .sorted_values(), .groupby(), .agg()`
