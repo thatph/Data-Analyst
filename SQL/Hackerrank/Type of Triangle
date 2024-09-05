@@ -8,10 +8,8 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 */
 
 /*
-Explanation
-Values in the tuple  form an Isosceles triangle, because .
-Values in the tuple  form an Equilateral triangle, because . Values in the tuple  form a Scalene triangle, because .
-Values in the tuple  cannot form a triangle because the combined value of sides  and  is not larger than that of side .
+My Side Note
+Don't form a triangle when A+B <= C as well as different angle.
 */
 
 SELECT 
